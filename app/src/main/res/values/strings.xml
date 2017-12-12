@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testAtivity</string>
+    <string name="haed">Exchange Rate Money</string>
+    <string name="load">Enter        Money</string>\
+    <string name="usd">USD (ดอลลาร์)</string>
+    <string name="cny">CNY (หยวน)</string>
+    <string name="krw">KRW (วอน)</string>
+    <string name="yen">JPY (เยน)</string>
+    <string name="euro">EUR (ยูโร)</string>
+    <string name="rin">MYR (ริงกิต)</string>
+
+</resources>
